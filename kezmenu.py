@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# KezMenu - By Luca Fabbri
+# KezMenu - By Zaid Ahmad
 # This code is released under GPL license
 # ---------------------------------------------------------------
 # This work is based on the original EzMeNu script, released from
